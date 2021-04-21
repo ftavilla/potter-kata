@@ -1,0 +1,1 @@
+export const SINGLE_BOOK_PRICE = 8
